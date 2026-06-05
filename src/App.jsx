@@ -4,7 +4,7 @@ import Footer from './Layout/Footer'
 import Hero from './pages/Hero'
 import About from './pages/About'
 import Services from './pages/Services'
-import Details from './pages/details'
+import Details from './pages/Details'
 import Sidebar from './Layout/Sidebar'
 
 function App() {
