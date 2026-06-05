@@ -38,6 +38,7 @@ function Footer() {
                     <li className='text-style'>Linkedin</li>
                     <li className='text-style'>Youtube</li>
                     <li className='text-style'>Twitter</li>
+                    
                 </ul>
             </div>
             <div>
