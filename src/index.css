@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+.text-style{
+    @apply hover:text-orange-500 transition-all duration-300 hover:shadow-orange-300 hover:shadow-2xs
+}
