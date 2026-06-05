@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='p-5 md:p-10 lg:p-15 flex flex-col md:gap-y-8 lg:gap-y-10 bg-emerald-200/20 dark:bg-gray-95gi0/90'>
+    <div className='p-5 md:p-10 lg:p-15 flex flex-col md:gap-y-8 lg:gap-y-10 bg-emerald-200/20 dark:bg-gray-950/90'>
         <div className='w-full flex justify-center items-center text-center flex-col dark:text-slate-100'>
             <h1 className='text-5xl md:text-6xl lg:text-7xl'>Subscribe to <br /> out newsletter</h1>
             <p className='py-2 dark:text-slate-200/70'>to make your stay special and even more memorable.</p>
@@ -38,7 +38,7 @@ function Footer() {
                     <li className='text-style'>Linkedin</li>
                     <li className='text-style'>Youtube</li>
                     <li className='text-style'>Twitter</li>
-                    
+
                 </ul>
             </div>
             <div>

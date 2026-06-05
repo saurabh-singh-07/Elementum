@@ -10,7 +10,7 @@ function Hero() {
         <p >
             We are a team if strategists, disgners communications, researchers, Togeather, we belive that progress only hghappens when you refuse to play things safe.
         </p>
-        <div className='flex mt-6 justify-between'>
+        <div className='flex mt-6 items-center justify-center space-x-6 md:space-x-10'>
             <div className='w-25 h-25'>
                 <img className=" rounded-full" src="https://tse3.mm.bing.net/th/id/OIP.7K6e07UeiPE6XyIUIJQl4QHaHa?pid=Api&P=0&h=180" alt="" />
             </div>
